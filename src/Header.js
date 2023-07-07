@@ -8,3 +8,5 @@ const Header = function () {
         </div>
     )
 }
+
+export default Header;
